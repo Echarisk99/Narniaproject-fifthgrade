@@ -1,0 +1,97 @@
+body { 
+  background: url(images/narniamap.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn{
+
+  align-items: center;
+  height: 30px;
+  border: 2px solid green; 
+  text-align: center;
+    background-color: #f5edc4;
+}
+
+.txt{
+	visibility: hidden;
+	  align-items: center;
+  height:150px;
+  text-align: center;
+    position: absolute;
+  width: 100%;
+  bottom: 5px;
+  font-weight: bold;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.map1 {
+	  background: url(images/narniamap1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.map2{
+	background: url(images/narniamap2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.map3{
+	background: url(images/narniamap3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.map4{
+	background: url(images/narniamap4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.map5{
+	background: url(images/narniamap5.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.map6{
+	background: url(images/narniamap6.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.map7{
+	background: url(images/narniamap7.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.map8{
+	background: url(images/narniamap8.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

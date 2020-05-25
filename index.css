@@ -1,0 +1,23 @@
+.hide {
+	visibility: hidden;
+  font-size: 30px;
+  text-shadow: 1px 1px #ff0000;
+  text-decoration: bold;
+}
+
+html { 
+  background: url(images/wardrobe.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.newback {
+  background: url(images/w2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
